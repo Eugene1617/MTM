@@ -15,7 +15,7 @@ export const site = {
   address: 'Chenda Residence, Mzuzu, Malawi',
   hours: 'Mon–Sat 7:30–17:00',
   mapsUrl:
-    'https://www.google.com/maps/search/?api=1&query=chenda+residence+Mzuzu+Malawi',
+    'https://www.google.com/maps/search/?api=1&query=MTM+office+services+printers+mzuzu+Malawi',
 };
 
 export const navLinks = [
