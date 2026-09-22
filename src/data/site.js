@@ -4,9 +4,9 @@
 // ─────────────────────────────────────────────────────────────
 
 export const site = {
-  name: 'MTM Copy & Print',
+  name: 'MTM Office Services and Printers',
   mark: 'MTM',
-  suffix: 'Copy & Print',
+  suffix: 'Office Services and Printers',
   tagline: 'Photocopying · Printing · Stationery',
   year: 2026,
 
