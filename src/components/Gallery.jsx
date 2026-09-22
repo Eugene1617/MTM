@@ -2,7 +2,7 @@ import { Reveal } from '../hooks/useReveal';
 import ImageCard from './ImageCard';
 
 // Four image cards in an alternating wide / narrow layout.
-const slots = ['gallery-1', 'gallery-2', 'gallery-3', 'gallery-4'];
+const slots = ['src/assets/images/Screenshot_2026-09-22-12-51-23-707_com.google.android.apps.maps.jpg', 'gallery-2', 'gallery-3', 'gallery-4'];
 
 export default function Gallery() {
   return (
