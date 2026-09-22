@@ -53,9 +53,3 @@ src/
                           FindUs, Contact, Footer, FloatingActions, ImageCard
 ```
 
-## Before you launch
-
-- The contact form does not send anything yet (`Contact.jsx`, marked TODO). Connect Formspree/EmailJS, or send to WhatsApp.
-- Check `email` in `src/data/site.js` — it still says `orders@albacopyprint.co`.
-- Check the FAQ price answer (first question) — it needs a proper price wording.
-- Deploy: push to GitHub and import into Vercel (framework preset: Vite), or run `npm run build` and upload `dist/`.
